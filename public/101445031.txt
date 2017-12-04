@@ -1,0 +1,3 @@
+It Works!
+
+If you are seeing this text file it means that Note.txt is working!
